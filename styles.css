@@ -95,6 +95,10 @@ h1 {
 .translate-button:active {
   transform: scale(0.95);
 }
+.creator-credit {
+  max-width: max-content;
+  margin: auto;
+}
 
 /* --------------------------------- Footer --------------------------------- */
 footer {
